@@ -32,3 +32,4 @@ We used react build this apps front end and python for the back end. The purpose
 - For styling we created css files and for testing created test files inside each folder
 - We did overall styling inside App.css file
 
+
